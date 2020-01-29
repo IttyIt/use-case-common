@@ -1,7 +1,7 @@
 {
   "name": "use-case-common",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": "git@github.com:IttyIt/use-case-common.git",
   "author": "Jay Soeur <jaylensoeur@gmail.com>",
   "license": "MIT",
